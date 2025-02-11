@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "book_name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publisher": "Scribner"
+    },
+    {
+        "id": 2,
+        "book_name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publisher": "J.B. Lippincott & Co."
+    }
+]
